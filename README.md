@@ -143,18 +143,6 @@ Then open the local URL shown in the terminal.
 
 ---
 
-## Sample Interface
-
-You can add screenshots from the `Images/` folder here.
-
-Example:
-
-```markdown
-![App Screenshot](Images/img1.png)
-```
-
----
-
 ## Future Improvements
 
 * Real-time webcam emotion detection
